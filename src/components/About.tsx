@@ -77,7 +77,7 @@ const About: React.FC = () => {
                 </h3>
                 
                 <p className="text-lg text-secondary-600 leading-relaxed mb-8">
-                  At Mammilway Inc, we're passionate about transforming the way businesses operate. Our team of expert developers, designers, and strategists work collaboratively to deliver cutting-edge solutions that drive real results.
+                  At MukilLabs, we're passionate about transforming the way businesses operate. Our team of expert developers, designers, and strategists work collaboratively to deliver cutting-edge solutions that drive real results.
                 </p>
                 
                 <div className="grid md:grid-cols-3 gap-6">
