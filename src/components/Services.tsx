@@ -1,6 +1,6 @@
 import React from 'react';
 import { useInView } from 'react-intersection-observer';
-import { Cloud, GitBranch, Globe, Shield, Lightbulb, Database, ArrowRight } from 'lucide-react';
+import { Cloud, GitBranch, Globe, Shield, Lightbulb, Database, } from 'lucide-react';
 
 const Services: React.FC = () => {
   const [ref, inView] = useInView({
@@ -128,12 +128,6 @@ const Services: React.FC = () => {
                       </li>
                     ))}
                   </ul>
-
-                  {/* Learn More Link */}
-                  <button className="flex items-center space-x-2 text-sm font-medium text-secondary-600 group-hover:text-primary-600 transition-colors">
-                    <span>Learn More</span>
-                    <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
-                  </button>
                 </div>
               </div>
             ))}
