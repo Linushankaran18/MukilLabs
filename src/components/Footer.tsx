@@ -50,12 +50,12 @@ const Footer: React.FC = () => {
             <div className="lg:col-span-1">
               <div className="flex items-center space-x-3 mb-6">
                 <div className="relative">
-                  <div className="absolute inset-0 bg-gradient-to-r from-primary-200 to-accent-200 rounded-xl blur opacity-75"></div>
+                  <div className="relative inset-0 bg-gradient-to-r from-primary-200 to-accent-200 rounded-xl blur opacity-75"></div>
                   <div className="relative bg-gradient-to-r from-primary-100 to-accent-100 p-2 rounded-xl">
                     <img 
                       src="/images/fullLogo.png" 
                       alt="MukilLabs Inc Logo"
-                      className="h-12 w-auto object-contain"
+                      className="h-8 w-auto object-contain"
                     />
                   </div>
                 </div>
