@@ -42,7 +42,7 @@ const Header: React.FC = () => {
           <div className="flex items-center space-x-1 flex-shrink-0">
             <div className="relative">
               <img 
-                src="/images/FullLogo.png" 
+                src="/images/fullLogo.png" 
                 alt="Mukillabs Inc Logo" 
                 className="h-12 sm:h-16 lg:h-18 w-auto object-contain"
               />
