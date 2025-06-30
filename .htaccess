@@ -1,0 +1,9 @@
+AddType text/javascript .js
+AddType text/javascript .mjs
+AddType application/javascript .js
+AddType application/javascript .mjs
+
+# Enable serving of ES6 modules
+<FilesMatch "\.(js|mjs)$">
+    Header set Content-Type "text/javascript"
+</FilesMatch>
