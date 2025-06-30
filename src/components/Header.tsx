@@ -48,7 +48,7 @@ const Header: React.FC = () => {
               />
             </div>
             <span className="hidden sm:block text-xl sm:text-2xl font-serif font-semibold text-secondary-800 tracking-wide">
-              MukilLabs Inc
+              MukilLabs
             </span>
           </div>
 
