@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
                   <div className="absolute inset-0 bg-gradient-to-r from-primary-200 to-accent-200 rounded-xl blur opacity-75"></div>
                   <div className="relative bg-gradient-to-r from-primary-100 to-accent-100 p-2 rounded-xl">
                     <img 
-                      src="src/images/FullLogo.png" 
+                      src="/images/fullLogo.png" 
                       alt="MukilLabs Inc Logo"
                       className="h-12 w-auto object-contain"
                     />
