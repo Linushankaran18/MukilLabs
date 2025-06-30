@@ -59,7 +59,7 @@ const Footer: React.FC = () => {
                     />
                   </div>
                 </div>
-                <span className="text-xl font-bold">MukilLabs Inc</span>
+                <span className="text-xl font-bold">MukilLabs</span>
               </div>
               <p className="text-gray-300 mb-8 leading-relaxed">
                 Empowering businesses with smart IT solutions and strategic guidance 
